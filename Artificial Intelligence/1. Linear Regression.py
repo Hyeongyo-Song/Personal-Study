@@ -7,6 +7,8 @@ Linear Regression은 독립변수 x를 통해 종속변수 y를 예측하는 것
 MAE는 |Ypredict - Ytrue|의 평균, MSE는 (Ypredict - Ytrue)^2의 평균을 의미합니다.
 Outlier가 적당히 무시되길 바란다면 MAE, Outlier를 고려해야 할 땐 MSE를 사용합니다.
 
+- 송현교 작성
+
 ---------------------------------------------------------------------------------
 
 import torch
