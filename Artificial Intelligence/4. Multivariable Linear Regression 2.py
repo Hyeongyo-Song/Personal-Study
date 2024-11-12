@@ -1,3 +1,5 @@
+# 4. Multivariable Linear Regression을 nn.Module로 편하게 구현하시오.
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
