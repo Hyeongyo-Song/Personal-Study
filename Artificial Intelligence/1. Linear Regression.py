@@ -1,3 +1,5 @@
+# 1. Linear Regression을 구현하시오.
+
 import torch
 
 x_train = torch.FloatTensor([[0],[1],[2]])
