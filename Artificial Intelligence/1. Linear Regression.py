@@ -1,4 +1,4 @@
-# 1. Linear Regression을 구현합시다.
+# Linear Regression을 구현합시다.
 
 Linear Regression은 독립변수 x를 통해 종속변수 y를 예측하는 것이며,
 예측을 위해 x 간의 규칙을 가장 잘 표현하는 하나의 Linear한 직선을 찾는 것이 바로 Linear Regression(선형 회귀)입니다.
