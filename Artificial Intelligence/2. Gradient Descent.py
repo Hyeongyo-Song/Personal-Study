@@ -1,11 +1,22 @@
-# 2. Linear Regression에 사용되는 Gradient Descent를 직접 구현하시오.
+# Gradient Descent를 직접 구현하시오.
+
+Gradient Descent는 우리말로 경사하강법이라 하며, Loss 즉 손실함수를 최적화하는데 사용하는 최적화 기법입니다.
+Loss Function이 Multivariable Function이라 가정했을 때, 각 변수들을 Weight로 편미분하면 Gradient를 구할 수 있습니다.
+
+이 Gradient는 수학적으로 그래프의 가장 가파른 지점을 향합니다.
+그렇다면 ? Gradient가 향하는 방향의 반대로 나아가면 극솟값에 도달할 수 있습니다 !
+이것이 바로 Gradient Descent입니다.
+
+Learning Rate를 곱해줌으로써 나아가는 정도도 조절해 줄 수 있답니다.
+
+------------------------------------------------------------------
 
 import torch
 
 x_train = torch.FloatTensor([[0],[1],[2]])
 y_train = torch.FloatTensor([[0],[1],[2]])
 
-weight = torch.zeros(1, True) # 두번째 Parameter는 'requires_grad = True'가 되어야 합니다. 본 문서에서는 오류가 없었지만 추후에 문제가 발생함을 확인하였음.
+weight = torch.zeros(1, True) # 두번째 Parameter는 'requires_grad = True'가 되어야 합니다. 본 문서에서는 우연히 오류가 없었지만 다른 상황에서는 문제가 발생함을 확인하였음.
 bias = torch.zeros(1, True) # 마찬가지입니다.
 
 epochs = 10 # 총 10번 반복할 예정
