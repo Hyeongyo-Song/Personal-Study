@@ -1,4 +1,4 @@
-# Linear Regression에 사용되는 Gradient Descent를 직접 구현하시오.
+# 2. Linear Regression에 사용되는 Gradient Descent를 직접 구현하시오.
 
 import torch
 
