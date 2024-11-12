@@ -1,4 +1,4 @@
-# 1. Linear Regression을 구현하시오.
+# 1. Linear Regression과 Mean Squared Error를 구현하시오.
 
 import torch
 
