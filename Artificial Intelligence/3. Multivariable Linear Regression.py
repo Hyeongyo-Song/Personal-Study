@@ -1,4 +1,4 @@
-# Multivariate Linear Regression을 구현하시오.
+# Multivariate Linear Regression를 구현해봅시다.
 
 이전에 구현해본 Linear Regression은 단순한 Y = Wx+b 형태의 구조였습니다.
 이를 Simple Linear Regression이라 합니다.
