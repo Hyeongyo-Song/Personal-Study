@@ -9,6 +9,8 @@ Loss Function이 Multivariable Function이라 가정했을 때, 각 변수들을
 
 Learning Rate를 곱해줌으로써 나아가는 정도도 조절해 줄 수 있답니다.
 
+- 송현교 작성
+
 ------------------------------------------------------------------
 
 import torch
