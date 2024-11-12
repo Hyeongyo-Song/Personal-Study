@@ -1,4 +1,4 @@
-# Gradient Descent를 직접 구현하시오.
+# Gradient Descent를 직접 구현해봅시다.
 
 Gradient Descent는 우리말로 경사하강법이라 하며, Loss 즉 손실함수를 최적화하는데 사용하는 최적화 기법입니다.
 Loss Function이 Multivariable Function이라 가정했을 때, 각 변수들을 Weight로 편미분하면 Gradient를 구할 수 있습니다.
