@@ -1,3 +1,5 @@
+# 5. DataLoader를 상속받아 대량의 데이터 처리법을 익힙시다.
+
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
