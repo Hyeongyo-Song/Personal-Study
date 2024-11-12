@@ -1,3 +1,5 @@
+# 3. Multivariate Linear Regression을 구현하시오.
+
 import torch
 
 x_train = torch.FloatTensor([[73,80, 75],
