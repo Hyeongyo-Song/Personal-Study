@@ -1,4 +1,10 @@
-# 4. Multivariable Linear Regression을 nn.Module로 편하게 구현하시오.
+# Multivariable Linear Regression을 nn.Module로 편하게 구현하시오.
+
+nn.Module 이라는 Abstract Class를 상속받으면 Linear Regression 뿐만 아니라 추후 서술할 여러 모델들을 편리하게 구현할 수 있답니다.
+
+- 송현교 작성
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 import torch
 import torch.nn as nn # 다변수 선형회귀 구현을 편하게 만들어주는 nn.Module을 불러오기 위해 Import하였습니다.
