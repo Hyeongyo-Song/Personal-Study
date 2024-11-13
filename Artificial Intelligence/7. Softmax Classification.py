@@ -1,4 +1,13 @@
 # Softmax Classification을 구현해봅시다.
+소프트맥스 분류기는 Neural Network의 Activation Function 중 하나인 Softmax Function를 사용하여 데이터가 어느 클래스에 속할 지 예측하는 모델입니다.
+Softmax Function은 Maxtix, Tensor를 입력으로 받아 데이터의 크기에 비례하는 실수값으로 출력하는 Function입니다.
+출력된 모든 값들을 더하면 1이 된다는 특징이 있습니다. 즉, 분포를 따르도록 만들어 주는 역할을 하는 것입니다.
+따라서, 손실함수도 확률분포의 차이를 계산하는 Cross Entropy Loss를 사용합니다.
+
+- 송현교 작성
+
+-----------------------------------------------------------------------------
+
 
 import torch
 
