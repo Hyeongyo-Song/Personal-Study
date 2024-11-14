@@ -16,6 +16,7 @@
 
 1. MediaExtractor API가 영상의 프레임을 분해한다.
 2. 분해된 프레임의 타입을 Bitmap으로 Convert한다.
+
 2-1. 이 때 YUV 컬러로 Convert 되므로 RGB 컬러로 변환하는 작업을 수행한다.
 4. 각 프레임에 Object Detection, Pose Estimation을 수행한 뒤 그 결과를 그린다.
 5. 모든 프레임 처리가 완료되었다면 MediaMuxer API를 사용하여 하나의 영상으로 병합하여 반환한다.
