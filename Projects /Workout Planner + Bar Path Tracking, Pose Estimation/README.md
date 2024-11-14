@@ -1,10 +1,10 @@
-<img src="https://github.com/user-attachments/assets/97b7a439-6316-4d60-86e1-9a1d6c0e295c  width="200" height="400"/>
-
 <img src="https://github.com/user-attachments/assets/92c07d9a-8b9d-476d-b8d7-f1d9c244aafd  width="200" height="400"/>
 
-<img src="https://github.com/user-attachments/assets/4c0eb5f0-bcf5-4f23-900b-c125eec676da  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/6af2c9e3-3328-4bd9-ae01-5cd38b5e4b60  width="200" height="400"/>
 
-<img src="https://github.com/user-attachments/assets/a4e683b1-bfc5-4da6-a3fd-2aa60ff49eed  width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/a05447e5-e054-4c98-b053-6123ca5b4482  width="200" height="400"/>
+
+
 
 운동을 계획하고, 계획된 운동 수행을 돕는 Workout Planner Application입니다.
 또한 Tencent의 YOLOv7-tiny, Google의 ML Kit를 활용하여 바벨의 궤적과 사용자의 자세를 Skeleton으로 시각화하는 기능이 있습니다.
