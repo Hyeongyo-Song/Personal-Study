@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e27b92d3-8a4a-4a26-be14-da2d18bc1351"  width="300" height="500"/>
-  <img src="https://github.com/user-attachments/assets/306846e7-29a2-439e-937b-6f36089ebeea"  width="300" height="500"/>
-  <img src="https://github.com/user-attachments/assets/ad18461e-44b3-4dd4-be21-546f9d4f1c75"  width="300" height="500"/>
-  <img src="https://github.com/user-attachments/assets/b1195c95-c4d3-40d6-a0d7-c9401ccd50d4"  width="300" height="500"/>
+  <img src="https://github.com/user-attachments/assets/e27b92d3-8a4a-4a26-be14-da2d18bc1351"  width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/306846e7-29a2-439e-937b-6f36089ebeea"  width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/ad18461e-44b3-4dd4-be21-546f9d4f1c75"  width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/b1195c95-c4d3-40d6-a0d7-c9401ccd50d4"  width="200" height="400"/>
 </p>
 
 안녕하세요 ?<br>
