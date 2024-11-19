@@ -6,7 +6,7 @@
 
 
 
-운동을 계획하고, 계획된 운동 수행을 돕는 Workout Planner Application입니다.
+운동을 계획하고, 계획된 운동 수행을 돕는 Workout Planner Application입니다. <br>
 또한 Tencent의 YOLOv7-tiny, Google의 ML Kit를 활용하여 바벨의 궤적과 사용자의 자세를 Skeleton으로 시각화하는 기능이 있습니다.
 
 기존에도 AI를 활용한 안드로이드용 Barbell Tracking이나 Pose Estimation이 존재했지만
