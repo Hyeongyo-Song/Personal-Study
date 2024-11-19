@@ -1,10 +1,30 @@
 클릭 시 확대된 이미지를 보실 수 있습니다.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e27b92d3-8a4a-4a26-be14-da2d18bc1351"  width="180" height="240"/>
-  <img src="https://github.com/user-attachments/assets/306846e7-29a2-439e-937b-6f36089ebeea"  width="180" height="240"/>
-  <img src="https://github.com/user-attachments/assets/dcd2476c-f484-4d33-8b70-99e85ede2c22"  width="180" height="240"/>
-  <img src="https://github.com/user-attachments/assets/b858d3a6-8ae1-4462-afef-96c4b51d437d"  width="180" height="240"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e27b92d3-8a4a-4a26-be14-da2d18bc1351" width="180" height="240" />
+      <br />
+      <b>CV (page 1)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/306846e7-29a2-439e-937b-6f36089ebeea" width="180" height="240" />
+      <br />
+      <b>CV (page 2)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dcd2476c-f484-4d33-8b70-99e85ede2c22" width="180" height="240" />
+      <br />
+      <b>성적증명서</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b858d3a6-8ae1-4462-afef-96c4b51d437d" width="180" height="240" />
+      <br />
+      <b>졸업예정증명서</b>
+    </td>
+  </tr>
+</table>
+
+
 
 안녕하세요 ?<br>
 현재 원주시 한라대학교에서 IT소프트웨어학을 전공 중에 있는 4학년 송현교입니다.<br>
