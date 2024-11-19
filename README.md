@@ -12,7 +12,7 @@
       <b>CV (page 2)</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/dcd2476c-f484-4d33-8b70-99e85ede2c22" width="180" height="240" />
+      <img src="https://github.com/user-attachments/assets/c92e3065-1f5d-42cc-94d9-685bc104391a" width="180" height="240" />
       <br />
       <b>성적증명서</b>
     </td>
@@ -23,8 +23,6 @@
     </td>
   </tr>
 </table>
-
-
 
 안녕하세요 ?<br>
 현재 원주시 한라대학교에서 IT소프트웨어학을 전공 중에 있는 4학년 송현교입니다.<br>
