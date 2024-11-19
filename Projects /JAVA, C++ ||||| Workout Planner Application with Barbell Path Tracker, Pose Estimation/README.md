@@ -3,8 +3,6 @@
 > 운동을 계획하고 수행을 돕는 Workout Planner Application입니다.  
 > Tencent의 YOLOv7-tiny와 Google의 ML Kit를 활용하여 바벨의 궤적과 사용자의 자세를 Skeleton으로 시각화하는 기능을 제공합니다.
 
----
-
 ## 📸 주요 스크린샷
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2697083c-914c-460e-baa5-8746a7174d47" width="200" height="400" alt="Screenshot 1"/>
@@ -12,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/2f5aecc3-53f1-43b7-928f-224df977e2b8" width="200" height="400" alt="Screenshot 3"/>
 </p>
 
----
+
 
 ## 📝 프로젝트 개요
 
@@ -24,7 +22,7 @@
 2. **동영상 분석 지원**: 실시간 감지뿐만 아니라, 갤러리에서 선택한 동영상도 분석 가능.  
 3. **다기능 지원**: Object Detection과 Pose Estimation을 모두 수행.  
 
----
+
 
 ## ⚙️ 구현 로직
 
@@ -33,14 +31,14 @@
 3. **Object Detection & Pose Estimation**: 각 프레임에 YOLOv7-tiny와 ML Kit를 사용해 감지 및 Skeleton 시각화 수행.  
 4. **영상 병합**: 모든 처리가 완료된 프레임을 `MediaMuxer API`를 사용해 하나의 영상으로 병합하여 반환.  
 
----
+
 
 ## 🚀 프로젝트 진행 상황
 
 현재는 뼈대만 완성된 상태이며, 지속적으로 기능을 개선하고 확장해 나갈 예정입니다.  
 **자세한 내용은 프로젝트 PDF**를 참고하세요.  
 
----
+
 
 ## 📂 프로젝트 파일
 
@@ -48,7 +46,7 @@
 - 본 레포지토리에 업로드하지 않았습니다.  
 - 필요 시 아래 이메일로 문의해주세요.
 
----
+
 
 ## 📧 문의
 - **Email:** songhg0321@naver.com || plx17842@gmail.com
