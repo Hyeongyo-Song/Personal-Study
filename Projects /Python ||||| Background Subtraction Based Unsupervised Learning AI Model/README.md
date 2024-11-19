@@ -1,12 +1,50 @@
+# 🎥 움직이는 물체 탐지 모델
+
+> 고정된 시점에서 촬영된 영상으로부터 **움직이지 않는 배경**을 우선 학습하고,  
+> 이를 기반으로 **움직이는 물체**를 탐지하는 모델입니다.
+
+---
+
+## 📸 주요 스크린샷
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94325647-7edb-47d1-b06f-3087612384e4"  width="200" height="400"/>
-  <img src="https://github.com/user-attachments/assets/75c56650-b801-4a6f-89f3-121c4143219c"  width="200" height="400"/>
-  <img src="https://github.com/user-attachments/assets/1cb69c93-9a5b-46fe-aa31-ba2f76c27a70"  width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/94325647-7edb-47d1-b06f-3087612384e4" width="200" height="400" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/75c56650-b801-4a6f-89f3-121c4143219c" width="200" height="400" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/1cb69c93-9a5b-46fe-aa31-ba2f76c27a70" width="200" height="400" alt="Screenshot 3"/>
 </p>
 
-고정된 시점에서 촬영된 영상으로부터 움직이지 않는 배경을 우선 학습하고, <br>
-이를 기반으로 움직이는 물체를 탐지하는 모델입니다.<br><br>
+---
 
-인공지능에 대한 이론이 전혀 없을 때 아이디어만 ChatGPT에게 제공하여 시험 제작해본 모델이며, <br>
-객체에 대한 정의(클래스 구분)를 내리지 못한다는 점에서 '비지도 학습 기법'이라 칭하기에는 무리가 있는 상태입니다. <br>
-또한 엄밀히 말하자면 배경을 학습하는 방식이므로 Background Subtraction도 아닙니다.
+## 📝 프로젝트 개요
+
+- **아이디어와 배경**  
+  본 프로젝트는 인공지능에 대한 이론이 전혀 없는 상태에서 **ChatGPT**와 함께 시험 제작한 모델입니다.  
+  객체에 대한 정의(클래스 구분)를 내리지 못하므로 엄밀히 말해 '비지도 학습 기법'이라 하기에는 한계가 있습니다.
+
+- **기존 기술과의 차별성**  
+  이 모델은 움직이는 객체를 탐지하지만, 사실 **Background Subtraction**과는 다른 방식으로 작동합니다.  
+  배경을 학습하여 탐지하는 독특한 방식으로 설계되었습니다.
+
+---
+
+## ⚙️ 주요 기능
+
+1. **배경 학습**: 고정된 카메라 시점에서 움직이지 않는 배경 데이터를 학습합니다.  
+2. **물체 탐지**: 학습된 배경을 기준으로 움직이는 객체를 구분하여 탐지합니다.
+
+---
+
+## 🚀 프로젝트 특징 및 한계
+
+- **장점**:  
+  - 간단한 학습 알고리즘으로 고정된 배경을 빠르게 학습.  
+  - 움직이는 객체의 실시간 탐지가 가능.  
+
+- **한계**:  
+  - 객체의 클래스를 구분하지 못함.  
+  - 엄밀히 비지도 학습이라고 하기에는 정의에 미흡.  
+
+---
+
+## 📧 문의
+프로젝트에 대한 궁금한 점이 있다면 아래로 연락해 주세요!  
+📩 **Email:** songhg0321@naver.com || plx17842@gmail.com
